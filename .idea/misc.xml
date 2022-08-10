@@ -1,0 +1,14 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<project version="4">
+  <component name="DesignSurface">
+    <option name="filePathToZoomLevelMap">
+      <map>
+        <entry key="app/src/main/res/layout/activity_main.xml" value="0.1879432624113475" />
+        <entry key="app/src/main/res/layout/lucky_wheel_layout.xml" value="0.1" />
+        <entry key="progressModule/src/main/res/drawable/ic_oval.xml" value="0.1" />
+        <entry key="progressModule/src/main/res/drawable/ic_sketched_down_arrow.xml" value="0.1" />
+        <entry key="progressModule/src/main/res/layout/lucky_wheel_layout.xml" value="0.1947821681864235" />
+      </map>
+    </option>
+  </component>
+</project>
